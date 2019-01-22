@@ -6,7 +6,7 @@ from myapp import MyApp
 if __name__ == '__main__':
     app = MyApp(sys.argv)
     mainWin = MainWindow()
-    # mainWin.setWindowTitle("my App")
+    mainWin.setWindowTitle("Blitzblit :: ART AI Camera filter")
     mainWin.show()
 
     ret = app.exec_()
