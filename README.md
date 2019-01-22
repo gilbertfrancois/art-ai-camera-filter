@@ -34,7 +34,7 @@ $ python main.py
 
 ## Screenshot
 
-![Screenshot](/Users/gilbert/Development/git/qt-ae-camera/resources/ae-filter.gif)
+![Screenshot](resources/ae-filter.gif)
 
 ## Todo
 
