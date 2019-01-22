@@ -8,7 +8,7 @@ PySide2 = "*"
 opencv-python-headless = "*"
 tensorflow = "*"
 keras = "*"
-pyyaml = ">=4.2b1"
+pyyaml = "==4.2b1"
 
 [dev-packages]
 
